@@ -1,7 +1,9 @@
 # Portfolio Website 
-A quiet corner of the internet where I share my projects, experiences, and thoughts on technology. 
+A quiet corner of the internet where I share my projects, experiences, and thoughts on technology, built using HTML, CSS and JavaScript.
 Designed and developed with curiosity and help from <a href="https://claude.ai" target="_blank">Claude</a>.
 
 View website ↗ https://ashilohfaith-debug.github.io/portfolio/
 
-Built using HTML, CSS and JavaScript.
+<br/>
+
+<img width="1851" height="887" alt="Screenshot 2026-06-11 150637" src="https://github.com/user-attachments/assets/2b8edd85-7a1b-4314-9024-771d4d3df4fc" />
